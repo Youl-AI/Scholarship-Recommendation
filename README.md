@@ -48,7 +48,6 @@
 ## 📱 4. Key Features & UI (주요 기능)
 ![App Screenshot](./assets/key_1.png)
 ![App Screenshot](./assets/key_2.png)
-
 1.  **마이 페이지 (프로필 설정):** 내 학교, 학점, 거주지, 소득분위 입력.
 2.  **전체 장학금 리스트:** DB에 적재된 모든 장학금을 마감일 순으로 조회.
 3.  **맞춤 추천 (Smart Match):** 입력된 정보를 바탕으로 **지원 가능한 공고**만 필터링하여 노출.
